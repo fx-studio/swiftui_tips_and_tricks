@@ -1,3 +1,3 @@
-#### [Home](./)
+#### [Home](./README.md)
 ---
 # Hello SwiftUI
