@@ -1,7 +1,7 @@
 # SwiftUI - Tips &amp; Tricks
-![SwiftUI](./_images/logo_swiftui.png)
-
-
+<p align="center">
+  <img src="./_images/logo_swiftui.png" alt="SwiftUI"/>
+</p>
 
 > "Chào mọi người, mình là **Fx** và đây là repo của mình về ***SwiftUI*** trong quá trình tự ngồi mò trước khi các website hay các đại ca khác ra sách hay các tutorial ngon lành hơn. Seri này tập trung vào những cái mình thấy là cần và thủ thuật trong iOS dựa theo kinh nghiệm chém gió thâm niên của mình.
 >
