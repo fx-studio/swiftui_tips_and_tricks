@@ -1,4 +1,4 @@
-# SwiftUI - Tips &amp; Tricks
+# Giới thiệu
 <p align="center">
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png" alt="SwiftUI"/>
 </p>
