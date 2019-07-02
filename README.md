@@ -20,6 +20,6 @@
 
 ### Danh sách
 
-1. [Hello SwiftUI](https://github.com/fx-studio/swiftUI_tips/tree/master/HelloSwiftUI)
+1. [Hello SwiftUI](./HelloSwiftUI)
 2. 
 
