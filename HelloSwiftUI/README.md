@@ -18,7 +18,7 @@
 
 ​		Mở Xcode và chọn `new project`
 
-<img src="_images/1.png" width=800 /> ![](_images/1.png)
+![]({% static 'images/1.png' %}) 
 
 ​		Chọn iOS và với application là `single view app`
 
