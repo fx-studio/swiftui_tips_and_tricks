@@ -169,7 +169,7 @@ struct ContentView : View {
 
 #### Cảm ơn bạn đã theo dõi bài này của mình. Bạn có thể xem lại qua video sau:
 
-> https://youtu.be/NtkF1aIofog
+> [https://youtu.be/NtkF1aIofog](https://youtu.be/NtkF1aIofog)
 
 
 
