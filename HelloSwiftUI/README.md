@@ -18,7 +18,7 @@
 
 ​		Mở Xcode và chọn `new project`
 
-![new_project](_images/1.png)
+<img src="_images/1.png" width=800 /> ![](_images/1.png)
 
 ​		Chọn iOS và với application là `single view app`
 
