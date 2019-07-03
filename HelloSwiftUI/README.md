@@ -1,5 +1,3 @@
-#### [Home](../README.md)
----
 # Hello SwiftUI
 
 ### 1. Cài đặt
