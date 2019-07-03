@@ -18,7 +18,7 @@
 
 ​		Mở Xcode và chọn `new project`
 
-![new_project](_images\1.png)
+![new_project](_images/1.png)
 
 ​		Chọn iOS và với application là `single view app`
 
@@ -169,9 +169,7 @@ struct ContentView : View {
 
 #### Cảm ơn bạn đã theo dõi bài này của mình. Bạn có thể xem lại qua video sau:
 
-<iframe width="560" height="400" src="https://www.youtube.com/embed/NtkF1aIofog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+> https://youtu.be/NtkF1aIofog
 
 
 
