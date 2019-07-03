@@ -18,17 +18,17 @@
 
 ​		Mở Xcode và chọn `new project`
 
-![new_project](_images\1.png)
+![new_project](_images/1.png)
 
 ​		Chọn iOS và với application là `single view app`
 
-![single_view_app](_images\2.png)
+![single_view_app](_images/2.png)
 
 
 
 ​		Điền thông tin cho project của mình và quan trọng nhất là chọn `Use SwiftUI`
 
-![use_swiftUI](_images\3.png)
+![use_swiftUI](_images/3.png)
 
 
 
@@ -36,7 +36,7 @@
 
 ​		Sau khi đã tạo xong project với SwiftUI thì bạn có thể xem qua một chút về giao diện của Xcode (dành cho các bạn mới bắt đầu với iOS). Trong này có 1 phần quan trọng là `Preview`
 
-![new_project](_images\4.png)
+![new_project](_images/4.png)
 
 ​	*Trong đó:*
 
@@ -53,7 +53,7 @@
 - Có thể custom kích thước, device hiển thị và hiển thị nhiều device
 - Bạn kích vào nút **Resume** để load lại preview
 
-![resum_preview](_images\5.png)
+![resum_preview](_images/5.png)
 
 ### 4. Coding
 
@@ -105,7 +105,7 @@ struct ContentView : View {
 
 ​		Nhấn nút `+` và kéo UI vào code thôi.
 
-![keo_tha](_images\7.png)
+![keo_tha](_images/7.png)
 
 
 
@@ -115,7 +115,7 @@ struct ContentView : View {
   - Vào đoạn code
   - Vào UI trong Preview
 
-![command](_images\6.png)
+![command](_images/6.png)
 
 ### 6. Cú pháp SwiftUI
 
@@ -163,7 +163,7 @@ struct ContentView : View {
 
   
 
-![ket_qua](_images\8.png)
+![ket_qua](_images/8.png)
 
 
 
