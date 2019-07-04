@@ -8,7 +8,7 @@
 
 - **Swift 5.1** : có trong xcode 11.0
 
-- **MacOS 15.0** : hiện tại là bản beta, vì MacOS 15.0 chứa bộ thư viện `UIKit for Mac`, bộ này giúp cho việc hiển thị UI trên MacOS và trên preview của Xcode khi chạy trên MacOS
+- **MacOS 10.15.0** : hiện tại là bản beta, vì MacOS 15.0 chứa bộ thư viện `UIKit for Mac`, bộ này giúp cho việc hiển thị UI trên MacOS và trên preview của Xcode khi chạy trên MacOS
 
   Về cài đặt thì bạn chịu khó tải các bản cài đặt trực tiếp từ [Apple Developer](https://developer.apple.com/) để đảm bảo tốt nhất. Sau khi cài đặt xong thì bắt tay vào bài đầu tiên là `Hello SwiftUI`
 
