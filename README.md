@@ -22,5 +22,7 @@
 
 1. [Hello SwiftUI](./HelloSwiftUI)
 2. [Run in Playground](./RunPlayground)
+3. [Set size to full screen](./FullScreen)
 
 ---
+
