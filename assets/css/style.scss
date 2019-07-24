@@ -11,6 +11,18 @@ ol li a {
   text-decoration: none;
 }
 
+table {
+  border: 1px solid #b5e853;
+}
+
+table thead tr th {
+  border: 1px solid #b5e853;
+}
+
+table tbody tr td {
+  border-bottom: 1px dashed #b5e853;
+}
+
 .a_header {
   color: #b5e853;
   text-decoration: none;
