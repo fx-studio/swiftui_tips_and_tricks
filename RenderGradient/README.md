@@ -10,7 +10,9 @@
 
 ![full_safearea](../assets/images/RenderGradient/1.png)
 
-		### Nguyên tắc
+
+
+### Nguyên tắc
 
 1. Ta set `background` cho View
 2. Background ở đây thì có thể từ bất kì thứ nào và với mong muốn `Gradient` thì sử dụng `LinearGradient`
