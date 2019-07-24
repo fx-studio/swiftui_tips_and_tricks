@@ -38,7 +38,6 @@ public static let bottom: Edge.Set
 public static let trailing: Edge.Set
 public static let all: Edge.Set
 public static let horizontal: Edge.Set
- static let vertical: Edge.Set
 ```
 
 ​		Hãy tận hưởng kết quả nào =))
