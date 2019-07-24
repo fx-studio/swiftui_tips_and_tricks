@@ -13,6 +13,7 @@
 
 * Youtube : [Fx Studio](<https://www.youtube.com/channel/UCjZOytn9lfmj8RLF5luCBBg>)
 * Fanpage: [Fx Studio](<https://www.facebook.com/FxStudio.Official>)
+* Video playlist: [SwiftUI Tips & Tricks](https://www.youtube.com/playlist?list=PLA-ODsEnQYDiR5oOJPHRfSky_8eIYrEQ-)
 
 *<u>Lưu ý:</u>*  **Các bài viết và mã nguồn của mình chỉ sử dụng cho mục đích `học tập`. Nếu share hay sử dụng xin hãy trích dẫn nguồn từ Fx Studio. Mình xin cảm ơn!**
 
