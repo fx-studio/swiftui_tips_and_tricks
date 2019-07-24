@@ -31,6 +31,8 @@
 3. [Set size to full screen](./FullScreen)
 4. [Button Action](./ButtonAction)
 5. [Tap Gestures](./TapGestures)
+6. [Outside SafeArea](./OutsideSafeArea)
+7. [Render Gradient](./RenderGradient)
 
 ---
 
