@@ -18,12 +18,19 @@
 
 ---
 
+### Hướng dẫn sử dụng `SwiftUI`
+
+1. [SwiftUI vs UIKit](./SwiftUIVsUIKit)
+
+---
+
 ### Danh sách
 
 1. [Hello SwiftUI](./HelloSwiftUI)
 2. [Run in Playground](./RunPlayground)
 3. [Set size to full screen](./FullScreen)
 4. [Button Action](./ButtonAction)
+5. [Tap Gestures](./TapGestures)
 
 ---
 
