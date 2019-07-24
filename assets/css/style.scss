@@ -17,10 +17,11 @@ table {
 
 table thead tr th {
   border: 1px solid #b5e853;
+  background: rgba(0,0,0,0.9);
 }
 
 table tbody tr td {
-  border-bottom: 1px dashed #b5e853;
+  border: 1px dashed #b5e853;
 }
 
 .a_header {
