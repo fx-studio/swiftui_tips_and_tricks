@@ -29,7 +29,7 @@
 
 ### [Working with List](./WorkingWithLists)
 
-1. Simple List of static items
+1. [Simple List of static items](./WorkingWithLists/SimpleList)
 2. Custom Row
 3. Dynamic List 
 4. Identifiable protocol 
