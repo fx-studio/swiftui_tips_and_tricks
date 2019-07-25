@@ -25,7 +25,24 @@
 
 ---
 
-### Danh sách
+### [Working with List](./WorkingWithLists)
+
+1. Simple List of static items
+2. Custom Row
+3. Dynamic List 
+4. Identifiable protocol 
+5. Master - Detail
+6. Cell action
+7. Action : Add, Delete
+8. Sections
+9. Grouped
+10. Parse Data
+
+*(Trạng thái : đang cập nhật)*
+
+---
+
+### Tips & Tricks
 
 1. [Hello SwiftUI](./HelloSwiftUI)
 2. [Run in Playground](./RunPlayground)
