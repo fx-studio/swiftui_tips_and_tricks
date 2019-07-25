@@ -75,3 +75,7 @@ List(0..<names.count) { index in
 
 ---
 
+### Danh sách  [Working with List](../)
+
+---
+
