@@ -11,7 +11,7 @@
 ### Danh sách
 
 1. [Simple List of static items](./SimpleList)
-2. Custom Row
+2. [Custom Row](./CustomRow)
 3. Dynamic List 
 4. Identifiable protocol 
 5. Master - Detail
