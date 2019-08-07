@@ -7,29 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2A14D2D022EE8DFF002E523B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A14D2CF22EE8DFF002E523B /* AppDelegate.swift */; };
-		2A14D2D222EE8DFF002E523B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A14D2D122EE8DFF002E523B /* SceneDelegate.swift */; };
-		2A14D2D422EE8DFF002E523B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A14D2D322EE8DFF002E523B /* ContentView.swift */; };
-		2A14D2D622EE8E01002E523B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A14D2D522EE8E01002E523B /* Assets.xcassets */; };
-		2A14D2D922EE8E01002E523B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A14D2D822EE8E01002E523B /* Preview Assets.xcassets */; };
-		2A14D2DC22EE8E01002E523B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A14D2DA22EE8E01002E523B /* LaunchScreen.storyboard */; };
-		2A59AE0622EFFAF800AE4528 /* WeatherRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A59AE0522EFFAF800AE4528 /* WeatherRow.swift */; };
+		2A59ADED22EFF99600AE4528 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A59ADEC22EFF99600AE4528 /* AppDelegate.swift */; };
+		2A59ADEF22EFF99600AE4528 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A59ADEE22EFF99600AE4528 /* SceneDelegate.swift */; };
+		2A59ADF122EFF99600AE4528 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A59ADF022EFF99600AE4528 /* ContentView.swift */; };
+		2A59ADF322EFF99900AE4528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A59ADF222EFF99900AE4528 /* Assets.xcassets */; };
+		2A59ADF622EFF99900AE4528 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A59ADF522EFF99900AE4528 /* Preview Assets.xcassets */; };
+		2A59ADF922EFF99900AE4528 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A59ADF722EFF99900AE4528 /* LaunchScreen.storyboard */; };
+		2A59AE0422EFFA7A00AE4528 /* WeatherRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A59AE0322EFFA7A00AE4528 /* WeatherRow.swift */; };
+		2ADB296322F01B5C008C5306 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADB296222F01B5C008C5306 /* Weather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2A14D2CC22EE8DFF002E523B /* CustomRow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomRow.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2A14D2CF22EE8DFF002E523B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2A14D2D122EE8DFF002E523B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2A14D2D322EE8DFF002E523B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		2A14D2D522EE8E01002E523B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		2A14D2D822EE8E01002E523B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2A14D2DB22EE8E01002E523B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		2A14D2DD22EE8E01002E523B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2A59AE0522EFFAF800AE4528 /* WeatherRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherRow.swift; sourceTree = "<group>"; };
+		2A59ADE922EFF99600AE4528 /* DynamicList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A59ADEC22EFF99600AE4528 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2A59ADEE22EFF99600AE4528 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2A59ADF022EFF99600AE4528 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2A59ADF222EFF99900AE4528 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2A59ADF522EFF99900AE4528 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2A59ADF822EFF99900AE4528 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2A59ADFA22EFF99900AE4528 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A59AE0322EFFA7A00AE4528 /* WeatherRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherRow.swift; sourceTree = "<group>"; };
+		2ADB296222F01B5C008C5306 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2A14D2C922EE8DFF002E523B /* Frameworks */ = {
+		2A59ADE622EFF99600AE4528 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,81 +41,90 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2A14D2C322EE8DFF002E523B = {
+		2A59ADE022EFF99600AE4528 = {
 			isa = PBXGroup;
 			children = (
-				2A14D2CE22EE8DFF002E523B /* CustomRow */,
-				2A14D2CD22EE8DFF002E523B /* Products */,
+				2A59ADEB22EFF99600AE4528 /* DynamicList */,
+				2A59ADEA22EFF99600AE4528 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2A14D2CD22EE8DFF002E523B /* Products */ = {
+		2A59ADEA22EFF99600AE4528 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A14D2CC22EE8DFF002E523B /* CustomRow.app */,
+				2A59ADE922EFF99600AE4528 /* DynamicList.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2A14D2CE22EE8DFF002E523B /* CustomRow */ = {
+		2A59ADEB22EFF99600AE4528 /* DynamicList */ = {
 			isa = PBXGroup;
 			children = (
-				2A14D2CF22EE8DFF002E523B /* AppDelegate.swift */,
-				2A14D2D122EE8DFF002E523B /* SceneDelegate.swift */,
-				2A14D2D322EE8DFF002E523B /* ContentView.swift */,
-				2A14D2D522EE8E01002E523B /* Assets.xcassets */,
-				2A14D2DA22EE8E01002E523B /* LaunchScreen.storyboard */,
-				2A14D2DD22EE8E01002E523B /* Info.plist */,
-				2A14D2D722EE8E01002E523B /* Preview Content */,
-				2A59AE0522EFFAF800AE4528 /* WeatherRow.swift */,
+				2A59AE0022EFF9A800AE4528 /* Weather */,
+				2A59ADEC22EFF99600AE4528 /* AppDelegate.swift */,
+				2A59ADEE22EFF99600AE4528 /* SceneDelegate.swift */,
+				2A59ADF022EFF99600AE4528 /* ContentView.swift */,
+				2A59ADF222EFF99900AE4528 /* Assets.xcassets */,
+				2A59ADF722EFF99900AE4528 /* LaunchScreen.storyboard */,
+				2A59ADFA22EFF99900AE4528 /* Info.plist */,
+				2A59ADF422EFF99900AE4528 /* Preview Content */,
 			);
-			path = CustomRow;
+			path = DynamicList;
 			sourceTree = "<group>";
 		};
-		2A14D2D722EE8E01002E523B /* Preview Content */ = {
+		2A59ADF422EFF99900AE4528 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				2A14D2D822EE8E01002E523B /* Preview Assets.xcassets */,
+				2A59ADF522EFF99900AE4528 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2A59AE0022EFF9A800AE4528 /* Weather */ = {
+			isa = PBXGroup;
+			children = (
+				2A59AE0322EFFA7A00AE4528 /* WeatherRow.swift */,
+				2ADB296222F01B5C008C5306 /* Weather.swift */,
+			);
+			path = Weather;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2A14D2CB22EE8DFF002E523B /* CustomRow */ = {
+		2A59ADE822EFF99600AE4528 /* DynamicList */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A14D2E022EE8E01002E523B /* Build configuration list for PBXNativeTarget "CustomRow" */;
+			buildConfigurationList = 2A59ADFD22EFF99900AE4528 /* Build configuration list for PBXNativeTarget "DynamicList" */;
 			buildPhases = (
-				2A14D2C822EE8DFF002E523B /* Sources */,
-				2A14D2C922EE8DFF002E523B /* Frameworks */,
-				2A14D2CA22EE8DFF002E523B /* Resources */,
+				2A59ADE522EFF99600AE4528 /* Sources */,
+				2A59ADE622EFF99600AE4528 /* Frameworks */,
+				2A59ADE722EFF99600AE4528 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CustomRow;
-			productName = CustomRow;
-			productReference = 2A14D2CC22EE8DFF002E523B /* CustomRow.app */;
+			name = DynamicList;
+			productName = DynamicList;
+			productReference = 2A59ADE922EFF99600AE4528 /* DynamicList.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2A14D2C422EE8DFF002E523B /* Project object */ = {
+		2A59ADE122EFF99600AE4528 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "Tien Le P.";
 				TargetAttributes = {
-					2A14D2CB22EE8DFF002E523B = {
+					2A59ADE822EFF99600AE4528 = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = 2A14D2C722EE8DFF002E523B /* Build configuration list for PBXProject "CustomRow" */;
+			buildConfigurationList = 2A59ADE422EFF99600AE4528 /* Build configuration list for PBXProject "DynamicList" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,48 +132,49 @@
 				en,
 				Base,
 			);
-			mainGroup = 2A14D2C322EE8DFF002E523B;
-			productRefGroup = 2A14D2CD22EE8DFF002E523B /* Products */;
+			mainGroup = 2A59ADE022EFF99600AE4528;
+			productRefGroup = 2A59ADEA22EFF99600AE4528 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2A14D2CB22EE8DFF002E523B /* CustomRow */,
+				2A59ADE822EFF99600AE4528 /* DynamicList */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2A14D2CA22EE8DFF002E523B /* Resources */ = {
+		2A59ADE722EFF99600AE4528 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A14D2DC22EE8E01002E523B /* LaunchScreen.storyboard in Resources */,
-				2A14D2D922EE8E01002E523B /* Preview Assets.xcassets in Resources */,
-				2A14D2D622EE8E01002E523B /* Assets.xcassets in Resources */,
+				2A59ADF922EFF99900AE4528 /* LaunchScreen.storyboard in Resources */,
+				2A59ADF622EFF99900AE4528 /* Preview Assets.xcassets in Resources */,
+				2A59ADF322EFF99900AE4528 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2A14D2C822EE8DFF002E523B /* Sources */ = {
+		2A59ADE522EFF99600AE4528 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A14D2D022EE8DFF002E523B /* AppDelegate.swift in Sources */,
-				2A14D2D222EE8DFF002E523B /* SceneDelegate.swift in Sources */,
-				2A14D2D422EE8DFF002E523B /* ContentView.swift in Sources */,
-				2A59AE0622EFFAF800AE4528 /* WeatherRow.swift in Sources */,
+				2A59ADED22EFF99600AE4528 /* AppDelegate.swift in Sources */,
+				2A59ADEF22EFF99600AE4528 /* SceneDelegate.swift in Sources */,
+				2A59ADF122EFF99600AE4528 /* ContentView.swift in Sources */,
+				2A59AE0422EFFA7A00AE4528 /* WeatherRow.swift in Sources */,
+				2ADB296322F01B5C008C5306 /* Weather.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		2A14D2DA22EE8E01002E523B /* LaunchScreen.storyboard */ = {
+		2A59ADF722EFF99900AE4528 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				2A14D2DB22EE8E01002E523B /* Base */,
+				2A59ADF822EFF99900AE4528 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +182,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		2A14D2DE22EE8E01002E523B /* Debug */ = {
+		2A59ADFB22EFF99900AE4528 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +242,7 @@
 			};
 			name = Debug;
 		};
-		2A14D2DF22EE8E01002E523B /* Release */ = {
+		2A59ADFC22EFF99900AE4528 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,40 +296,40 @@
 			};
 			name = Release;
 		};
-		2A14D2E122EE8E01002E523B /* Debug */ = {
+		2A59ADFE22EFF99900AE4528 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "CustomRow/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "DynamicList/Preview\\ Content";
 				DEVELOPMENT_TEAM = QG598U658S;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = CustomRow/Info.plist;
+				INFOPLIST_FILE = DynamicList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.fx.CustomRow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fx.DynamicList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		2A14D2E222EE8E01002E523B /* Release */ = {
+		2A59ADFF22EFF99900AE4528 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "CustomRow/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "DynamicList/Preview\\ Content";
 				DEVELOPMENT_TEAM = QG598U658S;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = CustomRow/Info.plist;
+				INFOPLIST_FILE = DynamicList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.fx.CustomRow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fx.DynamicList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -327,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A14D2C722EE8DFF002E523B /* Build configuration list for PBXProject "CustomRow" */ = {
+		2A59ADE422EFF99600AE4528 /* Build configuration list for PBXProject "DynamicList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2A14D2DE22EE8E01002E523B /* Debug */,
-				2A14D2DF22EE8E01002E523B /* Release */,
+				2A59ADFB22EFF99900AE4528 /* Debug */,
+				2A59ADFC22EFF99900AE4528 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A14D2E022EE8E01002E523B /* Build configuration list for PBXNativeTarget "CustomRow" */ = {
+		2A59ADFD22EFF99900AE4528 /* Build configuration list for PBXNativeTarget "DynamicList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2A14D2E122EE8E01002E523B /* Debug */,
-				2A14D2E222EE8E01002E523B /* Release */,
+				2A59ADFE22EFF99900AE4528 /* Debug */,
+				2A59ADFF22EFF99900AE4528 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2A14D2C422EE8DFF002E523B /* Project object */;
+	rootObject = 2A59ADE122EFF99600AE4528 /* Project object */;
 }
