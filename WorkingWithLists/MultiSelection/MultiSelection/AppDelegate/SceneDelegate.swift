@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MultiSelection
 //
-//  Created by Tien Le P. on 8/7/19.
+//  Created by Tien Le P. on 8/8/19.
 //  Copyright © 2019 Tien Le P. All rights reserved.
 //
 
@@ -21,7 +21,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         // Use a UIHostingController as window root view controller
         let window = UIWindow(frame: UIScreen.main.bounds)
-        window.rootViewController = UIHostingController(rootView: ContentView())
+        window.rootViewController = UIHostingController(rootView: MultiSelectionWithObjects())
         self.window = window
         window.makeKeyAndVisible()
     }

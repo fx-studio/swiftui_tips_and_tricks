@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MultiSelection
 //
-//  Created by Tien Le P. on 8/7/19.
+//  Created by Tien Le P. on 8/8/19.
 //  Copyright © 2019 Tien Le P. All rights reserved.
 //
 

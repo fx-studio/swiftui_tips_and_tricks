@@ -7,43 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2A24E1EB22FA843F002F0B9B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E1EA22FA843F002F0B9B /* AppDelegate.swift */; };
-		2A24E1ED22FA843F002F0B9B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E1EC22FA843F002F0B9B /* SceneDelegate.swift */; };
-		2A24E1EF22FA843F002F0B9B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E1EE22FA843F002F0B9B /* ContentView.swift */; };
-		2A24E1F122FA8444002F0B9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A24E1F022FA8444002F0B9B /* Assets.xcassets */; };
-		2A24E1F422FA8444002F0B9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A24E1F322FA8444002F0B9B /* Preview Assets.xcassets */; };
-		2A24E1F722FA8444002F0B9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A24E1F522FA8444002F0B9B /* LaunchScreen.storyboard */; };
-		2A24E1FF22FABCA7002F0B9B /* ListWithCustomSelectRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E1FE22FABCA7002F0B9B /* ListWithCustomSelectRow.swift */; };
-		2A24E20122FABCCD002F0B9B /* MultiSelectionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E20022FABCCD002F0B9B /* MultiSelectionRow.swift */; };
-		2A24E20322FABD0B002F0B9B /* SelectKeeper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E20222FABD0B002F0B9B /* SelectKeeper.swift */; };
-		2A24E20922FAC5D9002F0B9B /* ListWithEditButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E20822FAC5D9002F0B9B /* ListWithEditButton.swift */; };
-		2A24E20B22FAC704002F0B9B /* ListWithSelectionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E20A22FAC704002F0B9B /* ListWithSelectionManager.swift */; };
-		2A24E20F22FAC893002F0B9B /* ListWithCustomEditButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E20E22FAC893002F0B9B /* ListWithCustomEditButton.swift */; };
-		2A24E21122FACD59002F0B9B /* ListWithSwitchModeSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E21022FACD59002F0B9B /* ListWithSwitchModeSelection.swift */; };
-		2A24E21322FAD078002F0B9B /* SuperMultiSelectionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A24E21222FAD078002F0B9B /* SuperMultiSelectionRow.swift */; };
+		2A31536622FBE0B800AA7D21 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31536522FBE0B800AA7D21 /* AppDelegate.swift */; };
+		2A31536822FBE0B800AA7D21 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31536722FBE0B800AA7D21 /* SceneDelegate.swift */; };
+		2A31536A22FBE0B800AA7D21 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31536922FBE0B800AA7D21 /* ContentView.swift */; };
+		2A31536C22FBE0BB00AA7D21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A31536B22FBE0BB00AA7D21 /* Assets.xcassets */; };
+		2A31536F22FBE0BB00AA7D21 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A31536E22FBE0BB00AA7D21 /* Preview Assets.xcassets */; };
+		2A31537222FBE0BB00AA7D21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A31537022FBE0BB00AA7D21 /* LaunchScreen.storyboard */; };
+		2A31537B22FBE0FD00AA7D21 /* MultiSelectionWithEditButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31537A22FBE0FD00AA7D21 /* MultiSelectionWithEditButton.swift */; };
+		2A31538022FBE1CA00AA7D21 /* Pet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31537F22FBE1CA00AA7D21 /* Pet.swift */; };
+		2A31538222FBE34D00AA7D21 /* MultiSelectionWithObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A31538122FBE34D00AA7D21 /* MultiSelectionWithObjects.swift */; };
+		2AC0FF5D22FD61F40071BB25 /* SelectKeeper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AC0FF5C22FD61F40071BB25 /* SelectKeeper.swift */; };
+		2AC0FF5F22FD62610071BB25 /* MultiSelectionWithSelectionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AC0FF5E22FD62610071BB25 /* MultiSelectionWithSelectionManager.swift */; };
+		2AD3824223014D4C002187D7 /* MultiSelectionWithCustomEditButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD3824123014D4C002187D7 /* MultiSelectionWithCustomEditButton.swift */; };
+		2AD3824423015BEC002187D7 /* MultiSelectionWithSwitchModeSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD3824323015BEC002187D7 /* MultiSelectionWithSwitchModeSelection.swift */; };
+		2AD3824623015E5C002187D7 /* SuperMultiSelectRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD3824523015E5C002187D7 /* SuperMultiSelectRow.swift */; };
+		2AF92794230116A40018A923 /* MultiSelectionWithCustomRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF92793230116A40018A923 /* MultiSelectionWithCustomRow.swift */; };
+		2AF9279723011A460018A923 /* MultiSelectRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF9279623011A460018A923 /* MultiSelectRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2A24E1E722FA843F002F0B9B /* MultiSelection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiSelection.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2A24E1EA22FA843F002F0B9B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2A24E1EC22FA843F002F0B9B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2A24E1EE22FA843F002F0B9B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		2A24E1F022FA8444002F0B9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		2A24E1F322FA8444002F0B9B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2A24E1F622FA8444002F0B9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		2A24E1F822FA8444002F0B9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2A24E1FE22FABCA7002F0B9B /* ListWithCustomSelectRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithCustomSelectRow.swift; sourceTree = "<group>"; };
-		2A24E20022FABCCD002F0B9B /* MultiSelectionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectionRow.swift; sourceTree = "<group>"; };
-		2A24E20222FABD0B002F0B9B /* SelectKeeper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectKeeper.swift; sourceTree = "<group>"; };
-		2A24E20822FAC5D9002F0B9B /* ListWithEditButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithEditButton.swift; sourceTree = "<group>"; };
-		2A24E20A22FAC704002F0B9B /* ListWithSelectionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithSelectionManager.swift; sourceTree = "<group>"; };
-		2A24E20E22FAC893002F0B9B /* ListWithCustomEditButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithCustomEditButton.swift; sourceTree = "<group>"; };
-		2A24E21022FACD59002F0B9B /* ListWithSwitchModeSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithSwitchModeSelection.swift; sourceTree = "<group>"; };
-		2A24E21222FAD078002F0B9B /* SuperMultiSelectionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperMultiSelectionRow.swift; sourceTree = "<group>"; };
+		2A31536222FBE0B800AA7D21 /* MultiSelection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiSelection.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A31536522FBE0B800AA7D21 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2A31536722FBE0B800AA7D21 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2A31536922FBE0B800AA7D21 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2A31536B22FBE0BB00AA7D21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2A31536E22FBE0BB00AA7D21 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2A31537122FBE0BB00AA7D21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2A31537322FBE0BB00AA7D21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A31537A22FBE0FD00AA7D21 /* MultiSelectionWithEditButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectionWithEditButton.swift; sourceTree = "<group>"; };
+		2A31537F22FBE1CA00AA7D21 /* Pet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet.swift; sourceTree = "<group>"; };
+		2A31538122FBE34D00AA7D21 /* MultiSelectionWithObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectionWithObjects.swift; sourceTree = "<group>"; };
+		2AC0FF5C22FD61F40071BB25 /* SelectKeeper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectKeeper.swift; sourceTree = "<group>"; };
+		2AC0FF5E22FD62610071BB25 /* MultiSelectionWithSelectionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectionWithSelectionManager.swift; sourceTree = "<group>"; };
+		2AD3824123014D4C002187D7 /* MultiSelectionWithCustomEditButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectionWithCustomEditButton.swift; sourceTree = "<group>"; };
+		2AD3824323015BEC002187D7 /* MultiSelectionWithSwitchModeSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectionWithSwitchModeSelection.swift; sourceTree = "<group>"; };
+		2AD3824523015E5C002187D7 /* SuperMultiSelectRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperMultiSelectRow.swift; sourceTree = "<group>"; };
+		2AF92793230116A40018A923 /* MultiSelectionWithCustomRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectionWithCustomRow.swift; sourceTree = "<group>"; };
+		2AF9279623011A460018A923 /* MultiSelectRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiSelectRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2A24E1E422FA843F002F0B9B /* Frameworks */ = {
+		2A31535F22FBE0B800AA7D21 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -53,94 +57,112 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2A24E1DE22FA843F002F0B9B = {
+		2A31535922FBE0B800AA7D21 = {
 			isa = PBXGroup;
 			children = (
-				2A24E1E922FA843F002F0B9B /* MultiSelection */,
-				2A24E1E822FA843F002F0B9B /* Products */,
+				2A31536422FBE0B800AA7D21 /* MultiSelection */,
+				2A31536322FBE0B800AA7D21 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2A24E1E822FA843F002F0B9B /* Products */ = {
+		2A31536322FBE0B800AA7D21 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A24E1E722FA843F002F0B9B /* MultiSelection.app */,
+				2A31536222FBE0B800AA7D21 /* MultiSelection.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2A24E1E922FA843F002F0B9B /* MultiSelection */ = {
+		2A31536422FBE0B800AA7D21 /* MultiSelection */ = {
 			isa = PBXGroup;
 			children = (
-				2A24E20622FAC1BA002F0B9B /* AppDelegate */,
-				2A24E20722FAC1C6002F0B9B /* Manager */,
-				2A24E20522FAC1AC002F0B9B /* Row */,
-				2A24E20422FAC1A4002F0B9B /* Sceens */,
-				2A24E1F022FA8444002F0B9B /* Assets.xcassets */,
-				2A24E1F522FA8444002F0B9B /* LaunchScreen.storyboard */,
-				2A24E1F822FA8444002F0B9B /* Info.plist */,
-				2A24E1F222FA8444002F0B9B /* Preview Content */,
+				2A31537C22FBE14800AA7D21 /* AppDelegate */,
+				2AF9279523011A340018A923 /* Views */,
+				2AC0FF5B22FD61DA0071BB25 /* Managers */,
+				2A31537E22FBE1B200AA7D21 /* Models */,
+				2A31537922FBE0C300AA7D21 /* Screens */,
+				2A31537D22FBE15900AA7D21 /* Resources */,
+				2A31537322FBE0BB00AA7D21 /* Info.plist */,
+				2A31536D22FBE0BB00AA7D21 /* Preview Content */,
 			);
 			path = MultiSelection;
 			sourceTree = "<group>";
 		};
-		2A24E1F222FA8444002F0B9B /* Preview Content */ = {
+		2A31536D22FBE0BB00AA7D21 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				2A24E1F322FA8444002F0B9B /* Preview Assets.xcassets */,
+				2A31536E22FBE0BB00AA7D21 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		2A24E20422FAC1A4002F0B9B /* Sceens */ = {
+		2A31537922FBE0C300AA7D21 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
-				2A24E20822FAC5D9002F0B9B /* ListWithEditButton.swift */,
-				2A24E20A22FAC704002F0B9B /* ListWithSelectionManager.swift */,
-				2A24E1FE22FABCA7002F0B9B /* ListWithCustomSelectRow.swift */,
-				2A24E20E22FAC893002F0B9B /* ListWithCustomEditButton.swift */,
-				2A24E21022FACD59002F0B9B /* ListWithSwitchModeSelection.swift */,
-				2A24E1EE22FA843F002F0B9B /* ContentView.swift */,
+				2A31536922FBE0B800AA7D21 /* ContentView.swift */,
+				2A31537A22FBE0FD00AA7D21 /* MultiSelectionWithEditButton.swift */,
+				2A31538122FBE34D00AA7D21 /* MultiSelectionWithObjects.swift */,
+				2AC0FF5E22FD62610071BB25 /* MultiSelectionWithSelectionManager.swift */,
+				2AF92793230116A40018A923 /* MultiSelectionWithCustomRow.swift */,
+				2AD3824123014D4C002187D7 /* MultiSelectionWithCustomEditButton.swift */,
+				2AD3824323015BEC002187D7 /* MultiSelectionWithSwitchModeSelection.swift */,
 			);
-			path = Sceens;
+			path = Screens;
 			sourceTree = "<group>";
 		};
-		2A24E20522FAC1AC002F0B9B /* Row */ = {
+		2A31537C22FBE14800AA7D21 /* AppDelegate */ = {
 			isa = PBXGroup;
 			children = (
-				2A24E20022FABCCD002F0B9B /* MultiSelectionRow.swift */,
-				2A24E21222FAD078002F0B9B /* SuperMultiSelectionRow.swift */,
-			);
-			path = Row;
-			sourceTree = "<group>";
-		};
-		2A24E20622FAC1BA002F0B9B /* AppDelegate */ = {
-			isa = PBXGroup;
-			children = (
-				2A24E1EA22FA843F002F0B9B /* AppDelegate.swift */,
-				2A24E1EC22FA843F002F0B9B /* SceneDelegate.swift */,
+				2A31536522FBE0B800AA7D21 /* AppDelegate.swift */,
+				2A31536722FBE0B800AA7D21 /* SceneDelegate.swift */,
 			);
 			path = AppDelegate;
 			sourceTree = "<group>";
 		};
-		2A24E20722FAC1C6002F0B9B /* Manager */ = {
+		2A31537D22FBE15900AA7D21 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				2A24E20222FABD0B002F0B9B /* SelectKeeper.swift */,
+				2A31536B22FBE0BB00AA7D21 /* Assets.xcassets */,
+				2A31537022FBE0BB00AA7D21 /* LaunchScreen.storyboard */,
 			);
-			path = Manager;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2A31537E22FBE1B200AA7D21 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2A31537F22FBE1CA00AA7D21 /* Pet.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		2AC0FF5B22FD61DA0071BB25 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				2AC0FF5C22FD61F40071BB25 /* SelectKeeper.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		2AF9279523011A340018A923 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2AF9279623011A460018A923 /* MultiSelectRow.swift */,
+				2AD3824523015E5C002187D7 /* SuperMultiSelectRow.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2A24E1E622FA843F002F0B9B /* MultiSelection */ = {
+		2A31536122FBE0B800AA7D21 /* MultiSelection */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A24E1FB22FA8444002F0B9B /* Build configuration list for PBXNativeTarget "MultiSelection" */;
+			buildConfigurationList = 2A31537622FBE0BB00AA7D21 /* Build configuration list for PBXNativeTarget "MultiSelection" */;
 			buildPhases = (
-				2A24E1E322FA843F002F0B9B /* Sources */,
-				2A24E1E422FA843F002F0B9B /* Frameworks */,
-				2A24E1E522FA843F002F0B9B /* Resources */,
+				2A31535E22FBE0B800AA7D21 /* Sources */,
+				2A31535F22FBE0B800AA7D21 /* Frameworks */,
+				2A31536022FBE0B800AA7D21 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -148,25 +170,25 @@
 			);
 			name = MultiSelection;
 			productName = MultiSelection;
-			productReference = 2A24E1E722FA843F002F0B9B /* MultiSelection.app */;
+			productReference = 2A31536222FBE0B800AA7D21 /* MultiSelection.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2A24E1DF22FA843F002F0B9B /* Project object */ = {
+		2A31535A22FBE0B800AA7D21 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "Tien Le P.";
 				TargetAttributes = {
-					2A24E1E622FA843F002F0B9B = {
+					2A31536122FBE0B800AA7D21 = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = 2A24E1E222FA843F002F0B9B /* Build configuration list for PBXProject "MultiSelection" */;
+			buildConfigurationList = 2A31535D22FBE0B800AA7D21 /* Build configuration list for PBXProject "MultiSelection" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -174,55 +196,57 @@
 				en,
 				Base,
 			);
-			mainGroup = 2A24E1DE22FA843F002F0B9B;
-			productRefGroup = 2A24E1E822FA843F002F0B9B /* Products */;
+			mainGroup = 2A31535922FBE0B800AA7D21;
+			productRefGroup = 2A31536322FBE0B800AA7D21 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2A24E1E622FA843F002F0B9B /* MultiSelection */,
+				2A31536122FBE0B800AA7D21 /* MultiSelection */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2A24E1E522FA843F002F0B9B /* Resources */ = {
+		2A31536022FBE0B800AA7D21 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A24E1F722FA8444002F0B9B /* LaunchScreen.storyboard in Resources */,
-				2A24E1F422FA8444002F0B9B /* Preview Assets.xcassets in Resources */,
-				2A24E1F122FA8444002F0B9B /* Assets.xcassets in Resources */,
+				2A31537222FBE0BB00AA7D21 /* LaunchScreen.storyboard in Resources */,
+				2A31536F22FBE0BB00AA7D21 /* Preview Assets.xcassets in Resources */,
+				2A31536C22FBE0BB00AA7D21 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2A24E1E322FA843F002F0B9B /* Sources */ = {
+		2A31535E22FBE0B800AA7D21 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A24E1EB22FA843F002F0B9B /* AppDelegate.swift in Sources */,
-				2A24E20F22FAC893002F0B9B /* ListWithCustomEditButton.swift in Sources */,
-				2A24E1ED22FA843F002F0B9B /* SceneDelegate.swift in Sources */,
-				2A24E20B22FAC704002F0B9B /* ListWithSelectionManager.swift in Sources */,
-				2A24E1FF22FABCA7002F0B9B /* ListWithCustomSelectRow.swift in Sources */,
-				2A24E21122FACD59002F0B9B /* ListWithSwitchModeSelection.swift in Sources */,
-				2A24E1EF22FA843F002F0B9B /* ContentView.swift in Sources */,
-				2A24E21322FAD078002F0B9B /* SuperMultiSelectionRow.swift in Sources */,
-				2A24E20122FABCCD002F0B9B /* MultiSelectionRow.swift in Sources */,
-				2A24E20322FABD0B002F0B9B /* SelectKeeper.swift in Sources */,
-				2A24E20922FAC5D9002F0B9B /* ListWithEditButton.swift in Sources */,
+				2AC0FF5D22FD61F40071BB25 /* SelectKeeper.swift in Sources */,
+				2AC0FF5F22FD62610071BB25 /* MultiSelectionWithSelectionManager.swift in Sources */,
+				2AF92794230116A40018A923 /* MultiSelectionWithCustomRow.swift in Sources */,
+				2A31538022FBE1CA00AA7D21 /* Pet.swift in Sources */,
+				2AD3824423015BEC002187D7 /* MultiSelectionWithSwitchModeSelection.swift in Sources */,
+				2AF9279723011A460018A923 /* MultiSelectRow.swift in Sources */,
+				2A31537B22FBE0FD00AA7D21 /* MultiSelectionWithEditButton.swift in Sources */,
+				2A31536622FBE0B800AA7D21 /* AppDelegate.swift in Sources */,
+				2A31538222FBE34D00AA7D21 /* MultiSelectionWithObjects.swift in Sources */,
+				2A31536822FBE0B800AA7D21 /* SceneDelegate.swift in Sources */,
+				2AD3824223014D4C002187D7 /* MultiSelectionWithCustomEditButton.swift in Sources */,
+				2AD3824623015E5C002187D7 /* SuperMultiSelectRow.swift in Sources */,
+				2A31536A22FBE0B800AA7D21 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		2A24E1F522FA8444002F0B9B /* LaunchScreen.storyboard */ = {
+		2A31537022FBE0BB00AA7D21 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				2A24E1F622FA8444002F0B9B /* Base */,
+				2A31537122FBE0BB00AA7D21 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -230,7 +254,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		2A24E1F922FA8444002F0B9B /* Debug */ = {
+		2A31537422FBE0BB00AA7D21 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,7 +314,7 @@
 			};
 			name = Debug;
 		};
-		2A24E1FA22FA8444002F0B9B /* Release */ = {
+		2A31537522FBE0BB00AA7D21 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -344,7 +368,7 @@
 			};
 			name = Release;
 		};
-		2A24E1FC22FA8444002F0B9B /* Debug */ = {
+		2A31537722FBE0BB00AA7D21 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -364,7 +388,7 @@
 			};
 			name = Debug;
 		};
-		2A24E1FD22FA8444002F0B9B /* Release */ = {
+		2A31537822FBE0BB00AA7D21 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -387,25 +411,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A24E1E222FA843F002F0B9B /* Build configuration list for PBXProject "MultiSelection" */ = {
+		2A31535D22FBE0B800AA7D21 /* Build configuration list for PBXProject "MultiSelection" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2A24E1F922FA8444002F0B9B /* Debug */,
-				2A24E1FA22FA8444002F0B9B /* Release */,
+				2A31537422FBE0BB00AA7D21 /* Debug */,
+				2A31537522FBE0BB00AA7D21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A24E1FB22FA8444002F0B9B /* Build configuration list for PBXNativeTarget "MultiSelection" */ = {
+		2A31537622FBE0BB00AA7D21 /* Build configuration list for PBXNativeTarget "MultiSelection" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2A24E1FC22FA8444002F0B9B /* Debug */,
-				2A24E1FD22FA8444002F0B9B /* Release */,
+				2A31537722FBE0BB00AA7D21 /* Debug */,
+				2A31537822FBE0BB00AA7D21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2A24E1DF22FA843F002F0B9B /* Project object */;
+	rootObject = 2A31535A22FBE0B800AA7D21 /* Project object */;
 }
